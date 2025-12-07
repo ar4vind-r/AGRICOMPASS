@@ -21,7 +21,7 @@ The system uniquely merges soil data and pricing trends, offering a complete and
 -Matplotlib/Seaborn – Visualization (if used)<br>
 -Flask / Streamlit – For the web interface (if applicable)<br>
 
-# 🧠 How It Works
+## 🧠 How It Works
 
 -Selecting panchyat (to get soil details )<br>
 -User inputs soil parameters (NPK values, pH, rainfall, etc.)<br>
@@ -29,7 +29,7 @@ The system uniquely merges soil data and pricing trends, offering a complete and
 -Price prediction model forecasts market price for the recommended crops.<br>
 -System ranks the best options considering both soil and market conditions.<br>
 
-# 📈 Algorithms Used
+## 📈 Algorithms Used
 
 -Random Forest Classifier – Crop recommendation<br>
 -Linear Regression / ARIMA / Random Forest Regressor – Price forecasting<br>
