@@ -15,8 +15,7 @@ The system uniquely merges soil data and pricing trends, offering a complete and
 
 🛠️ Tech Stack
 
--Python
--Pandas, NumPy – Data handling
+-Python/n-Pandas, NumPy – Data handling
 -Scikit-learn – Machine learning models
 -Matplotlib/Seaborn – Visualization (if used)
 -Flask / Streamlit – For the web interface (if applicable)
