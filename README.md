@@ -15,24 +15,19 @@ The system uniquely merges soil data and pricing trends, offering a complete and
 
 🛠️ Tech Stack
 
--Python <br>
--Pandas, NumPy – Data handling
--Scikit-learn – Machine learning models
--Matplotlib/Seaborn – Visualization (if used)
--Flask / Streamlit – For the web interface (if applicable)
+-Python<br>
+-Pandas, NumPy – Data handling<br>
+-Scikit-learn – Machine learning models<br>
+-Matplotlib/Seaborn – Visualization (if used)<br>
+-Flask / Streamlit – For the web interface (if applicable)<br>
 
 🧠 How It Works
 
--Selecting panchyat
-(to get soil details )
--User inputs soil parameters
-(NPK values, pH, rainfall, etc.)
--Model suggests suitable crops
-based on agronomic matching.
--Price prediction model forecasts market price
-for the recommended crops.
--System ranks the best options
-considering both soil and market conditions.
+-Selecting panchyat (to get soil details )<br>
+-User inputs soil parameters (NPK values, pH, rainfall, etc.)<br>
+-Model suggests suitable crops based on agronomic matching.<br>
+-Price prediction model forecasts market price for the recommended crops.<br>
+-System ranks the best options considering both soil and market conditions.<br>
 
 📈 Algorithms Used
 
