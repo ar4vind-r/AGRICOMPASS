@@ -29,8 +29,8 @@ The system uniquely merges soil data and pricing trends, offering a complete and
 -Price prediction model forecasts market price for the recommended crops.<br>
 -System ranks the best options considering both soil and market conditions.<br>
 
-📈 Algorithms Used
+# 📈 Algorithms Used
 
--Random Forest Classifier – Crop recommendation
--Linear Regression / ARIMA / Random Forest Regressor – Price forecasting
--Normalization & Feature Engineering – Data preprocessing
+-Random Forest Classifier – Crop recommendation<br>
+-Linear Regression / ARIMA / Random Forest Regressor – Price forecasting<br>
+-Normalization & Feature Engineering – Data preprocessing<br>
