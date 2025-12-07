@@ -1,19 +1,19 @@
 # AGRICOMPASS
 AgriCompass is an intelligent decision-support system designed to help farmers choose the best crops based on both agronomic suitability and market profitability. It combines soil analysis with real-time price forecasting to deliver personalized, data-driven recommendations.
 
-✅ Personalized Crop Recommendations
+# ✅ Personalized Crop Recommendations
 
 AgriCompass analyzes soil parameters and matches them with ideal crops, ensuring high suitability and better yield.
 
-💹 Price Forecasting
+# 💹 Price Forecasting
 
 Predicts future market prices for major crops using machine-learning models, helping farmers plan more profitably.
 
-🔄 Agronomic + Economic Integration
+# 🔄 Agronomic + Economic Integration
 
 The system uniquely merges soil data and pricing trends, offering a complete and practical recommendation.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 -Python<br>
 -Pandas, NumPy – Data handling<br>
@@ -21,7 +21,7 @@ The system uniquely merges soil data and pricing trends, offering a complete and
 -Matplotlib/Seaborn – Visualization (if used)<br>
 -Flask / Streamlit – For the web interface (if applicable)<br>
 
-🧠 How It Works
+# 🧠 How It Works
 
 -Selecting panchyat (to get soil details )<br>
 -User inputs soil parameters (NPK values, pH, rainfall, etc.)<br>
