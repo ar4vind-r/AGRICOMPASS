@@ -13,10 +13,6 @@ Predicts future market prices for major crops using machine-learning models, hel
 
 The system uniquely merges soil data and pricing trends, offering a complete and practical recommendation.
 
-📊 User-Friendly Interface
-
-Simple input forms and clean outputs designed for easy use by farmers and agriculture students.
-
 🛠️ Tech Stack
 
 -Python
@@ -27,6 +23,8 @@ Simple input forms and clean outputs designed for easy use by farmers and agricu
 
 🧠 How It Works
 
+-Selecting panchyat
+(to get soil details )
 -User inputs soil parameters
 (NPK values, pH, rainfall, etc.)
 -Model suggests suitable crops
